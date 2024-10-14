@@ -7,7 +7,10 @@ Members:
 5. WAFULA ANDRE
 6. PAMELA OKINYO
 7. ANGELA KALEY
+
+   
 Technical Mentor:
+
 SAM KARU
 
 # Movie Recommendation System
