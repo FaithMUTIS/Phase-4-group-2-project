@@ -1,3 +1,15 @@
+Group 2 Phase 4
+Members:
+1. PATRICIA NGUGI
+2. FAITH MUTISYA
+3. JEFFREY
+4. BRIAN KARIUKI
+5. WAFULA ANDRE
+6. PAMELA OKINYO
+7. ANGELA KALEY
+Technical Mentor:
+SAM KARU
+
 # Movie Recommendation System
 
 This project implements a **Movie Recommendation System** using collaborative filtering and content-based filtering techniques. The system recommends movies to users based on their ratings of other movies as well as the content of the movies they have interacted with.
