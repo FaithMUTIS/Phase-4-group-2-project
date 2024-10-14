@@ -1,16 +1,12 @@
-<<<<<<< HEAD
 # Ignore unnecessary Jupyter Notebooks
 Angela.ipynb
 Brian.ipynb
 Faith.ipynb
 Jeffrey.ipynb
 Patricia.ipynb
-=======
-*.csv
 *.txt
 # Ignore FETCH_HEAD
 FETCH_HEAD
 # Ignore commit revert commands (though these aren't files, but you can prevent accidental commit logs)
 et --hard 89acc02
 et --hard 8e6c2befbd0c809afb6318209081f29ce1f61182
->>>>>>> 3e992bde40fcd4a642a9039ed701c998859bb3b7
