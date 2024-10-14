@@ -1,2 +1,11 @@
 *.csv
+# Ignore FETCH_HEAD
+FETCH_HEAD
+
+# Ignore commit revert commands (though these aren't files, but you can prevent accidental commit logs)
+et --hard 89acc02
+et --hard 8e6c2befbd0c809afb6318209081f29ce1f61182
+
+# Ignore readme.txt (if you don't want to track it)
+*.txt
 
